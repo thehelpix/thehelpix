@@ -1,8 +1,8 @@
-<h2> Добро пожаловать ко мне, Семпай :) </h2>
+<h2> Добро пожаловать ко мне </h2>
 
 <h3> ⚙ &nbsp; hProject? </h3>
 
-- 🔧 &nbsp; Это официальный GitHub hProject, тут есть все доступные опенсорсные плагины Minecraft.
+- 🔧 &nbsp; Это официальный GitHub профиль thehelpix'а, тут есть все доступные опенсорсные плагины Minecraft и другие проекты.
 
 <a href="https://github.com/ladypsayhe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ladypsayhe&theme=buefy&show_icons=true" />
